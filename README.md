@@ -20,14 +20,6 @@ var war; Declaring a war :)
 
 ***
 
-***
-
-### Question - What kind of doctor fixes broken websites?
-
-A URLologist.
-
-***
-
 #### Question - What will be the name of the movie on a sad developer?
 
 `DEV`das
